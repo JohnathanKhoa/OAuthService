@@ -9,6 +9,6 @@ logging:
 
 okta:
   oauth2:
-    issuer: https://dev-s68wji6zmigxcpq6.us.auth0.com/
+    issuer: https://dev-s68wji6zmigxcpq6.us.auth0.com
     client-id: D3oY17nk7hn18mdQ4uAZDLahdFxfaXAj
     client-secret: UiI1lnNsMkkYial3GsxgZsmiiDos2VrlYOqSRHDERiNJ6JwdwVfJYM76aENDCZtX
